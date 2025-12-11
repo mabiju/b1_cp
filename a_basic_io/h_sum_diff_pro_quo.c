@@ -1,3 +1,4 @@
+// A simple C program to compute the sum, difference, product, and quotient of two integers
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+// A simple C program to read and display the name and age of a user
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+// A simple C program to take two user input numbers, add them, and print the result
 #include <stdio.h>
 int main()
 {

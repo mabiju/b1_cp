@@ -1,3 +1,4 @@
+// A simple C program to print "Hello Nepal"
 #include <stdio.h>
 int main()
 {

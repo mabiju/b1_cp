@@ -1,3 +1,4 @@
+// A simple C program to calculate simple interest and total amount
 #include <stdio.h>
 int main()
 {

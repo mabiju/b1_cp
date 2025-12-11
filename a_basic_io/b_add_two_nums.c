@@ -1,3 +1,4 @@
+// A simple C program to add two numbers and print the result
 #include <stdio.h>
 int main()
 {

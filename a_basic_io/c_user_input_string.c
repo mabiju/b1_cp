@@ -1,3 +1,4 @@
+// A simple C program to take user input as a string and print it
 #include <stdio.h>
 int main()
 {
