@@ -1,3 +1,9 @@
+/* 
+A year is called leap year if it is divisible by 400.
+For example: 1600, 2000 etc leap year while 1500, 1700 are not leap year.
+Rule 2: If year is not divisible by 400 as well as 100 but it is divisible by 4 then that year are also leap year.
+For example:  2004, 2008, 1012 are leap year. */
+
 // Program to check if a user input year is a leap year or not
 #include <stdio.h>
 int main() {
